@@ -2,7 +2,7 @@
 
 Personal portfolio site. Single self-contained HTML page.
 
-**Live site:** https://mylesrossi-GH.github.io/myles-portfolio/
+**Live site:** https://mylesrossi-gh.github.io/MYLES-PAGE/
 
 ## Editing
 
